@@ -139,4 +139,4 @@ FUKUROUGG
 
 ---
 
-⭐ Caso este projeto seja útil para seus estudos, fique à vontade para utilizá-lo como referência e adaptá-lo para praticar novos conceitos da linguagem.
+
